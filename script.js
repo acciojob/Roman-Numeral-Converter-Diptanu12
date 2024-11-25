@@ -33,8 +33,8 @@ function convertToRoman(num) {
 }
 
 console.log(convertToRoman(14));  
-console.log(convertToRoman(58));  
-console.log(convertToRoman(1994));  
+console.log(convertToRoman(798)); 
+console.log(convertToRoman(36)); 
 
 
 
